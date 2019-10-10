@@ -1,0 +1,6 @@
+{
+  "recipient": "alexandr.kazakov1@gmail.com,list706@yandex.ru",
+  "allowedFiles": ["jpg", "png", "jpeg", "gif", "txt", "docx", "pdf", "doc", "csv", "xls", "xlsx", "ods", "odt", "rar", "zip", "svg", "cdr", "ai", "psd"],
+  "commonUploadDir": "uploads",
+  "maxFileSize": 5000000
+}
